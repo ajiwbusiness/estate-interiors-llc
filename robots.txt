@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://estate-interiors-llc-philadelphia.pages.dev/sitemap.xml
